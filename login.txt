@@ -1,0 +1,4 @@
+megarex133@Mac expressBookReviews % curl -X POST localhost:5500/customer/login \
+     -H "Content-Type: application/json" \
+     -d '{"username": "guest", "password": "guest"}'
+User successfully logged in

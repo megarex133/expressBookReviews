@@ -1,0 +1,3 @@
+megarex133@Mac expressBookReviews % curl -X DELETE localhost:5500/customer/auth/review/1 \
+     -b cookies.txt
+The review for the book with ISBN 1 has been removed by guest2. {"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}

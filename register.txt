@@ -1,0 +1,4 @@
+megarex133@Mac expressBookReviews % curl -X POST localhost:5500/register \
+     -H "Content-Type: application/json" \
+     -d '{"username": "guest", "password": "guest"}' 
+{"message":"User successfully registered. Now you can login"}
